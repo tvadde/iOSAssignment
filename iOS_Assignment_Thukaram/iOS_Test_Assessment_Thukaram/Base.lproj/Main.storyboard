@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ew8-s9-oY3">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -46,7 +47,7 @@
                                                                             <nil key="highlightedColor"/>
                                                                         </label>
                                                                     </subviews>
-                                                                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                     <constraints>
                                                                         <constraint firstItem="b3D-8e-PJ7" firstAttribute="leading" secondItem="gmZ-E2-d1m" secondAttribute="leading" id="5RE-Zr-Il5"/>
                                                                         <constraint firstItem="b3D-8e-PJ7" firstAttribute="top" secondItem="gmZ-E2-d1m" secondAttribute="top" id="AXD-pw-gbQ"/>
@@ -78,7 +79,7 @@
                                                                             <nil key="highlightedColor"/>
                                                                         </label>
                                                                     </subviews>
-                                                                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                     <constraints>
                                                                         <constraint firstItem="Utv-NY-PO1" firstAttribute="top" secondItem="9L9-TE-at9" secondAttribute="top" id="2Q5-VE-Uer"/>
                                                                         <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Utv-NY-PO1" secondAttribute="bottom" constant="2" id="9fs-Ue-gEU"/>
